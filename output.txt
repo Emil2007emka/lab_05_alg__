@@ -1,0 +1,14 @@
+--- Исходный контейнер (deque) ---
+Bulgakov M.A.|The Master and Margarita|YMCA-Press|1967|480
+Pushkin A.S.|The Captain's Daughter|Modern Reader|1836|192
+Gogol N.V.|Dead Souls|Russian Archive|1842|350
+
+--- После сортировки по ФИО ---
+Bulgakov M.A.|The Master and Margarita|YMCA-Press|1967|480
+Gogol N.V.|Dead Souls|Russian Archive|1842|350
+Pushkin A.S.|The Captain's Daughter|Modern Reader|1836|192
+
+--- Скопированный контейнер (list) ---
+Bulgakov M.A.|The Master and Margarita|YMCA-Press|1967|480
+Gogol N.V.|Dead Souls|Russian Archive|1842|350
+Pushkin A.S.|The Captain's Daughter|Modern Reader|1836|192
